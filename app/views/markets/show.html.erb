@@ -1,0 +1,8 @@
+<h1>Markets Show</h1>
+
+<h3><%= @market.name %></h3>
+<b><p><%= @market.street %></p>
+<p><%= @market.city %>, <%= @market.state %></p></b><br>
+
+<h2>Vendors List</h2>
+<p><b>Name: <%= link_to "#{@vendors.name}", "/vendors/#{@vendors.id}" %></b></p>
