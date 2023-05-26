@@ -5,4 +5,6 @@
 <p><%= @market.city %>, <%= @market.state %></p></b><br>
 
 <h2>Vendors List</h2>
-<p><b>Name: <%= link_to "#{@vendors.name}", "/vendors/#{@vendors.id}" %></b></p>
+<% @vendors.each do |vendor| %>
+  <p><b>Name: <%= link_to "#{vendor.name}", "/vendors/#{vendor.id}" %></b></p>
+<% end %>

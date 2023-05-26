@@ -1,5 +1,6 @@
 class Vendors
-  attr_reader :name,
+  attr_reader :id,
+              :name,
               :description,
               :contact_name,
               :contact_phone,
@@ -7,6 +8,7 @@ class Vendors
 
   def initialize(vendor_data)
     # require 'pry'; binding.pry
+    @id = vendor_data[:id]
     @name = vendor_data[:attributes][:name]
     @description = vendor_data[:attributes][:description]
     @contact_name = vendor_data[:attributes][:contact_name]
