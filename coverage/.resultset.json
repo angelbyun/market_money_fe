@@ -334,22 +334,11 @@
           null
         ]
       },
-      "/Users/angelbyun/mod3/projects/market_money_fe/app/controllers/markets_controller.rb": {
+      "/Users/angelbyun/mod3/projects/market_money_fe/app/controllers/vendors_controller.rb": {
         "lines": [
           1,
           1,
-          0,
-          null,
-          null,
           1,
-          2,
-          2,
-          null,
-          null,
-          null,
-          1,
-          1,
-          0,
           null,
           null
         ]
@@ -360,131 +349,30 @@
           null
         ]
       },
-      "/Users/angelbyun/mod3/projects/market_money_fe/app/facades/markets_facade.rb": {
-        "lines": [
-          1,
-          1,
-          null,
-          null,
-          null,
-          1,
-          0,
-          0,
-          null,
-          null,
-          null,
-          1,
-          null,
-          2,
-          null,
-          null,
-          1,
-          1,
-          0,
-          null,
-          null,
-          1,
-          2,
-          null,
-          null,
-          1,
-          2,
-          null,
-          null
-        ]
-      },
-      "/Users/angelbyun/mod3/projects/market_money_fe/app/poros/markets.rb": {
-        "lines": [
-          1,
-          1,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
-          null,
-          null
-        ]
-      },
-      "/Users/angelbyun/mod3/projects/market_money_fe/app/services/markets_service.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          1,
-          0,
-          null,
-          null,
-          1,
-          2,
-          null,
-          null,
-          1,
-          1,
-          2,
-          2,
-          null,
-          null,
-          1,
-          2,
-          2,
-          null,
-          null,
-          null
-        ]
-      },
       "/Users/angelbyun/mod3/projects/market_money_fe/app/facades/vendors_facade.rb": {
         "lines": [
           1,
           1,
-          2,
-          2,
+          0,
+          0,
           null,
           null,
           null,
           1,
           1,
-          2,
-          null,
-          null,
-          1,
-          2,
-          null,
-          null
-        ]
-      },
-      "/Users/angelbyun/mod3/projects/market_money_fe/app/services/vendors_service.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          1,
-          2,
           null,
           null,
           1,
           1,
-          2,
-          2,
+          0,
           null,
           null,
           1,
-          2,
-          2,
+          1,
           null,
+          null,
+          1,
+          1,
           null,
           null
         ]
@@ -501,18 +389,36 @@
           null,
           1,
           null,
-          2,
-          2,
-          2,
-          2,
-          2,
-          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
           null,
           null
         ]
       },
-      "/Users/angelbyun/mod3/projects/market_money_fe/app/controllers/vendors_controller.rb": {
+      "/Users/angelbyun/mod3/projects/market_money_fe/app/services/vendors_service.rb": {
         "lines": [
+          1,
+          null,
+          1,
+          1,
+          0,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
           1,
           1,
           null,
@@ -521,6 +427,6 @@
         ]
       }
     },
-    "timestamp": 1685065800
+    "timestamp": 1685069256
   }
 }

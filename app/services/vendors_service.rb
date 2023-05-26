@@ -5,6 +5,10 @@ class VendorsService
     get_url("api/v0/markets/#{market_id}/vendors")
   end
 
+  def one_vendor(id)
+    get_url("api/v0/vendors/#{id}")
+  end
+
   private
   def get_url(url)
     response = conn.get(url)
